@@ -1,2 +1,4 @@
 # hello-world
-This is the laboratory activity for lesson 3.
+Hi I'm Reynalyn Fabro, 20 years old
+I love reading wattpad, singing and playing ukulele
+
